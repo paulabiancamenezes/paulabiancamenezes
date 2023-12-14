@@ -5,8 +5,8 @@
 Me chamo **Paula Bianca Menzes dos Santos**.
 Sou **Técnica em Desenvolvimento de Sistemas** e estudante em **Tecnologia da Informação - T.I**.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulabiancamenezes&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulabiancamenezes&layout=compact&theme=transparent)](https://github.com/wallaceCoelho/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulabiancamenezes&show_icons=true&theme=vue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulabiancamenezes&layout=compact&theme=vue)](https://github.com/wallaceCoelho/github-readme-stats)
 
   ##
 <div style="display: inline_block"><br>
