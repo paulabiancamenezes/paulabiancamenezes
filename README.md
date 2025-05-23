@@ -1,6 +1,6 @@
 <!-- README do GitHub da Bianca 💻 -->
 
-<h1 align="center">Oi, eu sou a Bianca! 👋</h1>
+<h1 align="center">Opa, tudo bem? Eu sou a Bianca! 👋</h1>
 
 <p align="center">
   🎓 Estudante de Engenharia da Computação na UNIVESP  
@@ -21,23 +21,21 @@
 ## 🚀 Tecnologias que eu uso/aprendo
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Neon-000000?style=for-the-badge&logo=data:image/svg+xml;base64,..."/> <!-- Coloca a logo se quiser -->
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neon-000000?style=for-the-badge&logo=neon&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 </div>
 
 ---
 
-## 🧩 Projetos em destaque
+## 🧩 Projeto em destaque
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [Sistema Judô](https://github.com/SEUUSER/sistema-judo) | Plataforma para automatizar e gerenciar alunos e aulas de artes marciais. | Next.js, Prisma, Neon, Clerk |
-| [Nexa](https://github.com/SEUUSER/nexa-site) | Agência digital para impulsionar o comércio via redes sociais e sites. | HTML, JS, TailwindCSS |
+| [Sistema Judô](https://github.com/SEUUSER/sistema-judo) | Plataforma para automatizar e gerenciar alunos e aulas de artes marciais. | Next.js, Prisma, Neon, Zod |
 
 *Mais projetos em breve...*
 
@@ -55,9 +53,9 @@
 ## 💬 Sobre mim
 
 - 👩‍💻 Adoro mexer com código, resolver bugs e aprender coisas novas
-- 🌐 Curto estudar redes e sonho em integrar um time de NOC
-- 🎯 Objetivo: me tornar uma programadora Backend sinistra
-- ☕ Viciada em café e memes tech
+- 🌐 Curto estudar redes com objetivo atual em integrar um time de NOC
+- 🎯 Objetivo principal: me tornar uma programadora Backend
+- ☕ Viciada em café
 
 ---
 
